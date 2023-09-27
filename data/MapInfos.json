@@ -1,0 +1,16 @@
+[
+null,
+{"id":1,"expanded":true,"name":"1.2.Entrada_castillo","order":6,"parentId":0,"scrollX":1562.25,"scrollY":1475.25},
+{"id":2,"expanded":false,"name":"1.Ciudad","order":1,"parentId":0,"scrollX":1118.25,"scrollY":855.75},
+{"id":3,"expanded":true,"name":"1.2.1.Castillo_hall","order":7,"parentId":1,"scrollX":1008.75,"scrollY":1911.75},
+{"id":4,"expanded":true,"name":"1.2.3.Habitacion_rey","order":9,"parentId":1,"scrollX":831.75,"scrollY":504.75},
+{"id":5,"expanded":true,"name":"0.Intro_un_pj","order":11,"parentId":0,"scrollX":843.75,"scrollY":500.25},
+{"id":6,"expanded":false,"name":"0.2.b.Intro_elegir_pj","order":13,"parentId":5,"scrollX":843.75,"scrollY":500.25},
+{"id":7,"expanded":false,"name":"0.1.camino_al_pueblo","order":12,"parentId":5,"scrollX":843.75,"scrollY":500.25},
+{"id":8,"expanded":false,"name":"1.2.2.Castillo_hall_cutscene","order":8,"parentId":1,"scrollX":1241.25,"scrollY":1773.75},
+{"id":9,"expanded":false,"name":"MAP009","order":10,"parentId":0,"scrollX":843.75,"scrollY":500.25},
+{"id":10,"expanded":true,"name":"1.1.hostel","order":2,"parentId":2,"scrollX":831.75,"scrollY":987.75},
+{"id":11,"expanded":true,"name":"1.1.2.Casa_pareja","order":3,"parentId":2,"scrollX":831.75,"scrollY":726.75},
+{"id":12,"expanded":false,"name":"1.1.3.Taberna","order":4,"parentId":2,"scrollX":831.75,"scrollY":987.75},
+{"id":13,"expanded":false,"name":"1.1.4.Casa_lado_pareja","order":5,"parentId":2,"scrollX":831.75,"scrollY":726.75}
+]
